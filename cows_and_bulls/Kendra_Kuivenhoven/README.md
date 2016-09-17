@@ -1,6 +1,6 @@
-Authoer
+Author
   - Kendra Kuivenhoven
 
 Instructions
-  g++ main.cpp
-  ./a.out
+  - g++ main.cpp
+  - ./a.out
